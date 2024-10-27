@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Clase07_ApiAccess</string>
+
+    <string name="titSignup">Crear Cuenta</string>
+    <string name="lbl_nomb">Nombre</string>
+    <string name="lbl_aplls">Apellidos</string>
+    <string name="lbl_email">E-mail</string>
+    <string name="lbl_contra">Clave</string>
+    <string name="btn_OK">Aceptar</string>
+    <string name="btn_add">Agregar Tarea</string>
+    <string name="btn_save">Guardar Tarea</string>
+
+    <string name="titTareas">Lista de Tareas</string>
+    <string name="titeTareas">Agrega una nueva tarea</string>
+
+</resources>
